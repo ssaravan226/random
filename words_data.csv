@@ -1,0 +1,73 @@
+searchtopic,period,buffer1,buffer2,buffer3,numhits
+java,period 1,0,0,0,59
+java,period 2,0,0,0,18
+java,period 3,0,0,0,54
+java,period 4,0,0,0,8
+java,period 5,0,0,0,17
+java,period 6,0,0,0,58
+java,period 7,0,0,0,7
+java,period 8,0,0,0,10
+class,period 1,0,0,0,17
+class,period 2,0,0,0,19
+class,period 3,0,0,0,13
+class,period 4,0,0,0,3
+class,period 5,0,0,0,2
+class,period 6,0,0,0,7
+class,period 7,0,0,0,0
+class,period 8,0,0,0,1
+sort,period 1,0,0,0,0
+sort,period 2,0,0,0,0
+sort,period 3,0,0,0,0
+sort,period 4,0,0,0,0
+sort,period 5,0,0,0,0
+sort,period 6,0,0,0,80
+sort,period 7,0,0,0,1
+sort,period 8,0,0,0,3
+array,period 1,0,0,0,23
+array,period 2,0,0,0,0
+array,period 3,0,0,0,5
+array,period 4,0,0,0,1
+array,period 5,0,0,0,4
+array,period 6,0,0,0,56
+array,period 7,0,0,0,5
+array,period 8,0,0,0,8
+string,period 1,0,0,0,14
+string,period 2,0,0,0,12
+string,period 3,0,0,0,21
+string,period 4,0,0,0,1
+string,period 5,0,0,0,5
+string,period 6,0,0,0,6
+string,period 7,0,0,0,3
+string,period 8,0,0,0,6
+method,period 1,0,0,0,15
+method,period 2,0,0,0,19
+method,period 3,0,0,0,8
+method,period 4,0,0,0,0
+method,period 5,0,0,0,2
+method,period 6,0,0,0,10
+method,period 7,0,0,0,1
+method,period 8,0,0,0,2
+errors and exceptions,period 1,0,0,0,1
+errors and exceptions,period 2,0,0,0,2
+errors and exceptions,period 3,0,0,0,3
+errors and exceptions,period 4,0,0,0,0
+errors and exceptions,period 5,0,0,0,0
+errors and exceptions,period 6,0,0,0,6
+errors and exceptions,period 7,0,0,0,1
+errors and exceptions,period 8,0,0,0,0
+collections,period 1,0,0,0,4
+collections,period 2,0,0,0,0
+collections,period 3,0,0,0,1
+collections,period 4,0,0,0,9
+collections,period 5,0,0,0,15
+collections,period 6,0,0,0,31
+collections,period 7,0,0,0,1
+collections,period 8,0,0,0,4
+OOPS,period 1,0,0,0,6
+OOPS,period 2,0,0,0,9
+OOPS,period 3,0,0,0,15
+OOPS,period 4,0,0,0,0
+OOPS,period 5,0,0,0,3
+OOPS,period 6,0,0,0,6
+OOPS,period 7,0,0,0,2
+OOPS,period 8,0,0,0,0
